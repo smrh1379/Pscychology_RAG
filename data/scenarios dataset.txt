@@ -1,0 +1,581 @@
+Certainly! Here are 220 scenarios, with five scenarios each for two sub-types of the 22 categories of disorders listed in the DSM-5:
+
+### 1. Neurodevelopmental Disorders
+
+**Sub-type: Autism Spectrum Disorder**
+1. **Scenario**: A 6-year-old girl has difficulty making eye contact and often repeats phrases she hears from her favorite TV show. She becomes extremely distressed when her daily routine is disrupted.
+   **Disorder**: Neurodevelopmental Disorders -> Autism Spectrum Disorder
+2. **Scenario**: An 8-year-old boy has limited interests, focusing only on trains. He struggles to interact with peers and prefers solitary activities.
+   **Disorder**: Neurodevelopmental Disorders -> Autism Spectrum Disorder
+3. **Scenario**: A 4-year-old child does not respond to their name and avoids physical contact. They engage in repetitive hand flapping when excited.
+   **Disorder**: Neurodevelopmental Disorders -> Autism Spectrum Disorder
+4. **Scenario**: A 7-year-old girl has significant delays in language development and prefers to play alone, often spinning objects repeatedly.
+   **Disorder**: Neurodevelopmental Disorders -> Autism Spectrum Disorder
+5. **Scenario**: A 5-year-old boy has intense reactions to certain sounds and textures, leading to frequent meltdowns in public places.
+   **Disorder**: Neurodevelopmental Disorders -> Autism Spectrum Disorder
+
+**Sub-type: Attention-Deficit/Hyperactivity Disorder (ADHD)**
+1. **Scenario**: A 10-year-old boy has difficulty staying seated in class and frequently interrupts others. He often forgets to complete homework assignments.
+   **Disorder**: Neurodevelopmental Disorders -> Attention-Deficit/Hyperactivity Disorder
+2. **Scenario**: An 8-year-old girl is easily distracted and often loses her school supplies. She has trouble following multi-step instructions.
+   **Disorder**: Neurodevelopmental Disorders -> Attention-Deficit/Hyperactivity Disorder
+3. **Scenario**: A 12-year-old boy is constantly fidgeting and talks excessively. He struggles to wait his turn during group activities.
+   **Disorder**: Neurodevelopmental Disorders -> Attention-Deficit/Hyperactivity Disorder
+4. **Scenario**: A 9-year-old girl has trouble focusing on reading assignments and often daydreams during lessons. Her grades are slipping despite her intelligence.
+   **Disorder**: Neurodevelopmental Disorders -> Attention-Deficit/Hyperactivity Disorder
+5. **Scenario**: An 11-year-old boy is forgetful in daily activities, frequently misplacing his belongings and failing to meet deadlines for school projects.
+   **Disorder**: Neurodevelopmental Disorders -> Attention-Deficit/Hyperactivity Disorder
+
+### 2. Schizophrenia Spectrum and Other Psychotic Disorders
+
+**Sub-type: Schizophrenia**
+1. **Scenario**: A 25-year-old woman hears voices that criticize her actions and believes she is being watched by government agents. She has withdrawn from friends and family.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Schizophrenia
+2. **Scenario**: A 30-year-old man experiences delusions of grandeur, believing he has a special mission to save the world. He also exhibits disorganized speech and behavior.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Schizophrenia
+3. **Scenario**: A 22-year-old woman isolates herself in her room, rarely speaks to anyone, and has lost interest in personal hygiene. She reports seeing shadowy figures in her home.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Schizophrenia
+4. **Scenario**: A 28-year-old man shows flat affect, speaks in a monotone voice, and has trouble maintaining a job due to his inability to focus and frequent paranoid thoughts.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Schizophrenia
+5. **Scenario**: A 35-year-old woman has recurring visual hallucinations and believes her neighbors are plotting against her. She exhibits catatonic behavior at times.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Schizophrenia
+
+**Sub-type: Delusional Disorder**
+1. **Scenario**: A 45-year-old man believes his spouse is cheating on him despite no evidence. He becomes increasingly suspicious and confrontational.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Delusional Disorder
+2. **Scenario**: A 50-year-old woman is convinced she has a serious illness, even though medical tests show she is healthy. She constantly seeks second opinions from doctors.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Delusional Disorder
+3. **Scenario**: A 38-year-old man believes he is being followed by the FBI. He frequently changes his routine and moves to different locations to avoid being tracked.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Delusional Disorder
+4. **Scenario**: A 60-year-old woman insists that her neighbors are spying on her through hidden cameras in her home. She has filed multiple complaints with the police.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Delusional Disorder
+5. **Scenario**: A 55-year-old man believes he has invented a revolutionary product and that competitors are trying to steal his idea, despite not having any prototype or patent.
+   **Disorder**: Schizophrenia Spectrum and Other Psychotic Disorders -> Delusional Disorder
+
+### 3. Bipolar and Related Disorders
+
+**Sub-type: Bipolar I Disorder**
+1. **Scenario**: A 28-year-old woman experiences periods of extreme euphoria, increased energy, and reckless spending, followed by episodes of severe depression and suicidal thoughts.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar I Disorder
+2. **Scenario**: A 35-year-old man has alternating periods of intense creativity and hyperactivity, then deep depression where he isolates himself and feels worthless.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar I Disorder
+3. **Scenario**: A 22-year-old college student experiences sleepless nights filled with grandiose plans, followed by weeks of missing classes due to overwhelming sadness and fatigue.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar I Disorder
+4. **Scenario**: A 40-year-old woman goes through a phase of excessive partying and risky sexual behavior, then withdraws completely, feeling hopeless and unable to function.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar I Disorder
+5. **Scenario**: A 50-year-old man has cycles of high productivity and ambition, then crashes into a depressive state where he cannot get out of bed or maintain his daily responsibilities.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar I Disorder
+
+**Sub-type: Bipolar II Disorder**
+1. **Scenario**: A 30-year-old woman experiences episodes of heightened irritability and increased activity, followed by longer periods of debilitating depression.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar II Disorder
+2. **Scenario**: A 25-year-old man has cycles of elevated mood where he takes on multiple projects and social engagements, then sinks into depression with low energy and interest in activities.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar II Disorder
+3. **Scenario**: A 42-year-old woman has a history of depressive episodes interspersed with periods of hypomania, characterized by less need for sleep and an inflated sense of confidence.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar II Disorder
+4. **Scenario**: A 37-year-old man feels unusually productive and energetic for several days, followed by weeks of feeling worthless and unable to enjoy his hobbies.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar II Disorder
+5. **Scenario**: A 29-year-old woman alternates between feeling euphoric and invincible to experiencing severe self-doubt and hopelessness, significantly affecting her work performance.
+   **Disorder**: Bipolar and Related Disorders -> Bipolar II Disorder
+
+### 4. Depressive Disorders
+
+**Sub-type: Major Depressive Disorder**
+1. **Scenario**: A 32-year-old woman feels overwhelming sadness, has lost interest in her favorite activities, and struggles to get out of bed most days. She has recurring thoughts of self-harm.
+   **Disorder**: Depressive Disorders -> Major Depressive Disorder
+2. **Scenario**: A 45-year-old man experiences a persistent low mood, fatigue, and difficulty concentrating at work. He has gained weight due to overeating.
+   **Disorder**: Depressive Disorders -> Major Depressive Disorder
+3. **Scenario**: A 25-year-old woman has been feeling hopeless and irritable for several months. She has trouble sleeping and often feels guilty about past actions.
+   **Disorder**: Depressive Disorders -> Major Depressive Disorder
+4. **Scenario**: A 50-year-old man reports feelings of emptiness, a lack of motivation, and an inability to enjoy life. He frequently thinks about death and dying.
+   **Disorder**: Depressive Disorders -> Major Depressive Disorder
+5. **Scenario**: A 40-year-old woman experiences a significant decrease in her ability to think and concentrate, along with persistent fatigue and a sense of worthlessness.
+   **Disorder**: Depressive Disorders -> Major Depressive Disorder
+
+**Sub-type: Persistent Depressive Disorder (Dysthymia)**
+1. **Scenario**: A 28
+
+-year-old man has felt mildly depressed most of the time for the past three years, with low self-esteem and little interest in social activities.
+   **Disorder**: Depressive Disorders -> Persistent Depressive Disorder
+2. **Scenario**: A 35-year-old woman has a history of chronic low mood, lack of energy, and feelings of hopelessness that have persisted for over two years.
+   **Disorder**: Depressive Disorders -> Persistent Depressive Disorder
+3. **Scenario**: A 45-year-old man consistently feels pessimistic about his future and experiences difficulty making decisions. His symptoms have been present for several years.
+   **Disorder**: Depressive Disorders -> Persistent Depressive Disorder
+4. **Scenario**: A 30-year-old woman reports a constant feeling of sadness and disinterest in life, which has affected her ability to maintain relationships and perform at work.
+   **Disorder**: Depressive Disorders -> Persistent Depressive Disorder
+5. **Scenario**: A 50-year-old man has experienced low-grade depression for as long as he can remember, finding it difficult to recall a time when he felt genuinely happy.
+   **Disorder**: Depressive Disorders -> Persistent Depressive Disorder
+
+### 5. Anxiety Disorders
+
+**Sub-type: Generalized Anxiety Disorder**
+1. **Scenario**: A 28-year-old woman feels excessively worried about various aspects of her life, including work, health, and finances. She finds it hard to control her anxiety.
+   **Disorder**: Anxiety Disorders -> Generalized Anxiety Disorder
+2. **Scenario**: A 35-year-old man experiences constant anxiety and tension, often anticipating disaster. He has difficulty concentrating and suffers from muscle tension.
+   **Disorder**: Anxiety Disorders -> Generalized Anxiety Disorder
+3. **Scenario**: A 40-year-old woman worries excessively about her children's safety and her job performance, leading to sleep disturbances and fatigue.
+   **Disorder**: Anxiety Disorders -> Generalized Anxiety Disorder
+4. **Scenario**: A 30-year-old man has persistent, excessive worry about everyday activities and finds it challenging to relax. He frequently feels restless and on edge.
+   **Disorder**: Anxiety Disorders -> Generalized Anxiety Disorder
+5. **Scenario**: A 25-year-old woman has been experiencing uncontrollable worry about her future, accompanied by irritability and a sense of impending doom.
+   **Disorder**: Anxiety Disorders -> Generalized Anxiety Disorder
+
+**Sub-type: Social Anxiety Disorder (Social Phobia)**
+1. **Scenario**: A 22-year-old woman avoids social gatherings and speaking in public due to an intense fear of being judged and embarrassed.
+   **Disorder**: Anxiety Disorders -> Social Anxiety Disorder
+2. **Scenario**: A 30-year-old man feels extreme anxiety at the thought of attending a work party, fearing he will say something foolish and be ridiculed.
+   **Disorder**: Anxiety Disorders -> Social Anxiety Disorder
+3. **Scenario**: A 25-year-old woman becomes extremely anxious in situations where she might be observed by others, such as eating in public or using public restrooms.
+   **Disorder**: Anxiety Disorders -> Social Anxiety Disorder
+4. **Scenario**: A 35-year-old man experiences severe distress and physical symptoms, such as sweating and trembling, when meeting new people.
+   **Disorder**: Anxiety Disorders -> Social Anxiety Disorder
+5. **Scenario**: A 28-year-old woman avoids job interviews and dating due to a debilitating fear of being scrutinized and negatively evaluated by others.
+   **Disorder**: Anxiety Disorders -> Social Anxiety Disorder
+
+### 6. Obsessive-Compulsive and Related Disorders
+
+**Sub-type: Obsessive-Compulsive Disorder (OCD)**
+1. **Scenario**: A 25-year-old man spends hours each day washing his hands and cleaning his home to prevent contamination, despite knowing his fears are irrational.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Obsessive-Compulsive Disorder
+2. **Scenario**: A 30-year-old woman has intrusive thoughts about harming her loved ones and engages in repetitive checking behaviors to ensure their safety.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Obsessive-Compulsive Disorder
+3. **Scenario**: A 35-year-old man experiences distressing thoughts about symmetry and spends excessive time arranging and rearranging objects in his environment.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Obsessive-Compulsive Disorder
+4. **Scenario**: A 28-year-old woman performs complex rituals involving counting and touching objects to prevent something bad from happening.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Obsessive-Compulsive Disorder
+5. **Scenario**: A 22-year-old man has compulsions to repeatedly check if doors are locked and appliances are turned off, significantly impacting his daily life.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Obsessive-Compulsive Disorder
+
+**Sub-type: Body Dysmorphic Disorder**
+1. **Scenario**: A 25-year-old woman believes her nose is severely deformed and spends hours each day checking her appearance in the mirror and seeking reassurance from others.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Body Dysmorphic Disorder
+2. **Scenario**: A 30-year-old man is preoccupied with the appearance of his skin, frequently visiting dermatologists and undergoing unnecessary treatments.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Body Dysmorphic Disorder
+3. **Scenario**: A 22-year-old woman avoids social interactions due to a perceived flaw in her body shape, which others do not notice or consider significant.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Body Dysmorphic Disorder
+4. **Scenario**: A 35-year-old man is convinced his hairline is receding and spends a considerable amount of time camouflaging the area and researching hair restoration options.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Body Dysmorphic Disorder
+5. **Scenario**: A 28-year-old woman excessively compares her appearance to others and often feels distressed about imagined defects, leading to multiple cosmetic procedures.
+   **Disorder**: Obsessive-Compulsive and Related Disorders -> Body Dysmorphic Disorder
+
+### 7. Trauma- and Stressor-Related Disorders
+
+**Sub-type: Posttraumatic Stress Disorder (PTSD)**
+1. **Scenario**: A 32-year-old combat veteran experiences frequent nightmares and flashbacks of a traumatic event, avoiding reminders of the experience.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Posttraumatic Stress Disorder
+2. **Scenario**: A 28-year-old woman who survived a car accident has recurring intrusive memories and feels hypervigilant in traffic, avoiding driving whenever possible.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Posttraumatic Stress Disorder
+3. **Scenario**: A 40-year-old man who witnessed a violent crime feels numb and detached from others, has trouble sleeping, and experiences sudden outbursts of anger.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Posttraumatic Stress Disorder
+4. **Scenario**: A 35-year-old woman who was assaulted experiences intense psychological distress when encountering any reminders of the event, such as certain locations or people.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Posttraumatic Stress Disorder
+5. **Scenario**: A 45-year-old man who lost his home in a natural disaster has flashbacks, avoids discussing the event, and feels a constant sense of impending doom.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Posttraumatic Stress Disorder
+
+**Sub-type: Acute Stress Disorder**
+1. **Scenario**: A 25-year-old woman experiences dissociative symptoms and intense anxiety following a recent robbery, lasting for several weeks.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Acute Stress Disorder
+2. **Scenario**: A 30-year-old man has difficulty concentrating, is easily startled, and experiences flashbacks shortly after surviving a severe earthquake.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Acute Stress Disorder
+3. **Scenario**: A 22-year-old woman experiences intrusive memories, nightmares, and heightened arousal after a recent car accident, with symptoms persisting for a month.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Acute Stress Disorder
+4. **Scenario**: A 35-year-old man feels detached from reality and has trouble sleeping after being physically assaulted. His symptoms began immediately after the event.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Acute Stress Disorder
+5. **Scenario**: A 28-year-old woman experiences intense fear, hypervigilance, and emotional numbing after a sudden, violent incident at work, with symptoms lasting for several weeks.
+   **Disorder**: Trauma- and Stressor-Related Disorders -> Acute Stress Disorder
+
+### 8. Dissociative Disorders
+
+**Sub-type: Dissociative Identity Disorder**
+1. **Scenario**: A 35-year-old woman has gaps in her memory and finds items in her home she does not remember buying. She sometimes feels like a different person with a distinct name and history.
+   **Disorder**: Dissociative Disorders -> Dissociative Identity Disorder
+2. **Scenario**: A 28-year-old man experiences blackouts and is told by friends that he acts completely differently during these episodes, using a different name and voice.
+   **Disorder**: Dissociative
+
+ Disorders -> Dissociative Identity Disorder
+3. **Scenario**: A 40-year-old woman discovers writings and drawings that she does not recall creating, often feeling as if another person is taking control of her actions.
+   **Disorder**: Dissociative Disorders -> Dissociative Identity Disorder
+4. **Scenario**: A 30-year-old man has multiple distinct identities, each with their own memories and behaviors, leading to confusion and distress in his daily life.
+   **Disorder**: Dissociative Disorders -> Dissociative Identity Disorder
+5. **Scenario**: A 45-year-old woman experiences frequent amnesia and switches between personalities with different names, ages, and backgrounds.
+   **Disorder**: Dissociative Disorders -> Dissociative Identity Disorder
+
+**Sub-type: Depersonalization/Derealization Disorder**
+1. **Scenario**: A 25-year-old man feels detached from his body, as if he is observing himself from outside, experiencing this sensation frequently and finding it distressing.
+   **Disorder**: Dissociative Disorders -> Depersonalization/Derealization Disorder
+2. **Scenario**: A 30-year-old woman feels that her surroundings are unreal and dreamlike. She experiences these feelings sporadically, which impacts her daily functioning.
+   **Disorder**: Dissociative Disorders -> Depersonalization/Derealization Disorder
+3. **Scenario**: A 22-year-old man often feels disconnected from his thoughts and actions, experiencing these sensations during periods of stress, which causes significant anxiety.
+   **Disorder**: Dissociative Disorders -> Depersonalization/Derealization Disorder
+4. **Scenario**: A 35-year-old woman experiences episodes where she feels like an outside observer of her life, with the world around her appearing foggy and unreal.
+   **Disorder**: Dissociative Disorders -> Depersonalization/Derealization Disorder
+5. **Scenario**: A 28-year-old man frequently feels as if he is living in a movie, with everything around him appearing distant and artificial, leading to confusion and distress.
+   **Disorder**: Dissociative Disorders -> Depersonalization/Derealization Disorder
+
+### 9. Somatic Symptom and Related Disorders
+
+**Sub-type: Somatic Symptom Disorder**
+1. **Scenario**: A 40-year-old woman has chronic pain and gastrointestinal issues with no identifiable medical cause. She frequently visits doctors and feels very anxious about her health.
+   **Disorder**: Somatic Symptom and Related Disorders -> Somatic Symptom Disorder
+2. **Scenario**: A 30-year-old man is preoccupied with persistent headaches and muscle pain, believing he has a serious illness despite multiple negative test results.
+   **Disorder**: Somatic Symptom and Related Disorders -> Somatic Symptom Disorder
+3. **Scenario**: A 35-year-old woman experiences fatigue and dizziness, often missing work and social activities due to her symptoms, which cause significant distress.
+   **Disorder**: Somatic Symptom and Related Disorders -> Somatic Symptom Disorder
+4. **Scenario**: A 28-year-old man has numerous physical complaints, including back pain and chest pain, which lead to frequent medical consultations and tests, with no clear diagnosis.
+   **Disorder**: Somatic Symptom and Related Disorders -> Somatic Symptom Disorder
+5. **Scenario**: A 50-year-old woman is convinced that her intermittent abdominal pain is a sign of cancer, despite being reassured by several doctors that her tests are normal.
+   **Disorder**: Somatic Symptom and Related Disorders -> Somatic Symptom Disorder
+
+**Sub-type: Illness Anxiety Disorder**
+1. **Scenario**: A 45-year-old man constantly worries about developing a serious illness, frequently checking his body for signs and seeking reassurance from multiple doctors.
+   **Disorder**: Somatic Symptom and Related Disorders -> Illness Anxiety Disorder
+2. **Scenario**: A 35-year-old woman becomes anxious after reading about diseases online, interpreting minor symptoms as signs of a severe medical condition.
+   **Disorder**: Somatic Symptom and Related Disorders -> Illness Anxiety Disorder
+3. **Scenario**: A 28-year-old man is preoccupied with the fear of having a heart attack, repeatedly visiting emergency rooms despite normal test results.
+   **Disorder**: Somatic Symptom and Related Disorders -> Illness Anxiety Disorder
+4. **Scenario**: A 30-year-old woman checks her blood pressure multiple times a day, convinced that she has hypertension, despite consistent normal readings.
+   **Disorder**: Somatic Symptom and Related Disorders -> Illness Anxiety Disorder
+5. **Scenario**: A 40-year-old man avoids certain foods and activities out of fear they might trigger a latent disease, frequently seeking medical advice for reassurance.
+   **Disorder**: Somatic Symptom and Related Disorders -> Illness Anxiety Disorder
+
+### 10. Feeding and Eating Disorders
+
+**Sub-type: Anorexia Nervosa**
+1. **Scenario**: A 22-year-old woman severely restricts her food intake, constantly worries about gaining weight, and exercises excessively, despite being underweight.
+   **Disorder**: Feeding and Eating Disorders -> Anorexia Nervosa
+2. **Scenario**: A 19-year-old man has an intense fear of becoming fat, counts calories obsessively, and avoids eating in social situations, leading to significant weight loss.
+   **Disorder**: Feeding and Eating Disorders -> Anorexia Nervosa
+3. **Scenario**: A 25-year-old woman views herself as overweight even though she is emaciated, and engages in ritualistic eating habits, such as cutting food into tiny pieces.
+   **Disorder**: Feeding and Eating Disorders -> Anorexia Nervosa
+4. **Scenario**: A 18-year-old girl refuses to maintain a healthy body weight, regularly skips meals, and uses diet pills and laxatives to lose weight.
+   **Disorder**: Feeding and Eating Disorders -> Anorexia Nervosa
+5. **Scenario**: A 20-year-old man restricts his diet to a few low-calorie foods, experiences hair loss and fatigue, and denies the severity of his weight loss.
+   **Disorder**: Feeding and Eating Disorders -> Anorexia Nervosa
+
+**Sub-type: Bulimia Nervosa**
+1. **Scenario**: A 24-year-old woman frequently eats large quantities of food in a short period, followed by self-induced vomiting and use of laxatives to prevent weight gain.
+   **Disorder**: Feeding and Eating Disorders -> Bulimia Nervosa
+2. **Scenario**: A 20-year-old man has episodes of binge eating, followed by intense guilt and shame, leading him to engage in excessive exercise and fasting.
+   **Disorder**: Feeding and Eating Disorders -> Bulimia Nervosa
+3. **Scenario**: A 22-year-old woman cycles between periods of overeating and purging through vomiting, often feeling a lack of control over her eating habits.
+   **Disorder**: Feeding and Eating Disorders -> Bulimia Nervosa
+4. **Scenario**: A 25-year-old man eats large amounts of food in secret and then uses diuretics and enemas to avoid weight gain, experiencing frequent mood swings.
+   **Disorder**: Feeding and Eating Disorders -> Bulimia Nervosa
+5. **Scenario**: A 28-year-old woman engages in recurrent binge eating, followed by extreme measures such as fasting and excessive exercise to compensate for the calories consumed.
+   **Disorder**: Feeding and Eating Disorders -> Bulimia Nervosa
+
+### 11. Elimination Disorders
+
+**Sub-type: Enuresis**
+1. **Scenario**: A 7-year-old boy frequently wets the bed at night, despite being toilet trained during the day. He feels embarrassed and avoids sleepovers with friends.
+   **Disorder**: Elimination Disorders -> Enuresis
+2. **Scenario**: A 9-year-old girl has recurrent episodes of bedwetting, which occur several times a week. Her parents are concerned and have tried various strategies to help.
+   **Disorder**: Elimination Disorders -> Enuresis
+3. **Scenario**: An 8-year-old boy wets himself during the day, especially when he's engrossed in play or at school, leading to social difficulties and teasing from peers.
+   **Disorder**: Elimination Disorders -> Enuresis
+4. **Scenario**: A 10-year-old girl continues to wet the bed, causing her significant distress and leading to conflicts with her parents who are frustrated with the ongoing issue.
+   **Disorder**: Elimination Disorders -> Enuresis
+5. **Scenario**: A 6-year-old boy has nighttime bedwetting episodes that occur at least twice a week. Despite various interventions, the problem persists, affecting his self-esteem.
+   **Disorder**: Elimination Disorders -> Enuresis
+
+**Sub-type: Encopresis**
+1. **Scenario**: A 7-year-old boy frequently soils his pants during the day, despite being potty trained. He tries to hide his soiled clothes, feeling ashamed and embarrassed.
+   **Disorder**: Elimination Disorders -> Encopresis
+2. **Scenario**: An 8-year-old girl has accidents involving bowel movements at school and at home, causing significant stress for her and her family.
+   **Disorder**: Elimination Disorders -> Encopresis
+3. **Scenario**: A 6-year-old boy repeatedly passes stool in inappropriate places, such as in his clothing or on the floor, despite knowing how to use the toilet.
+   **Disorder**: Elimination Disorders -> Encopresis
+4. **Scenario**: A 9-year-old girl has chronic constipation and occasional soiling incidents, often withholding stool due to fear of pain, exacerbating the issue.
+   **Disorder**: Elimination Disorders -> Encopresis
+5. **Scenario**: A 10-year-old boy experiences involuntary fecal leakage, leading to frequent changes of underwear and significant distress and embarrassment.
+   **Disorder**: Elimination Disorders -> Encopresis
+
+### 12. Sleep-Wake Disorders
+
+**Sub-type: Insomnia Disorder**
+1. **Scenario**: A 35-year-old woman struggles to fall asleep most nights and wakes up several times, resulting in daytime fatigue and difficulty concentrating at work.
+   **Disorder**: Sleep-Wake Disorders -> Insomnia Disorder
+2. **Scenario**: A 40-year-old man lies awake for hours, unable to stop worrying about his job, which leads to irritability and decreased performance during the day.
+   **Disorder**: Sleep-Wake Disorders -> Insomnia Disorder
+3. **Scenario**: A 30-year-old woman has difficulty staying asleep, waking up multiple times throughout the night and feeling unrefreshed in the morning.
+   **Disorder**: Sleep-Wake Disorders -> Insomnia Disorder
+4. **Scenario**: A 45-year-old man experiences poor sleep quality despite adequate sleep opportunity, leading to chronic tiredness and frustration.
+   **Disorder**: Sleep-Wake Disorders -> Insomnia Disorder
+5. **Scenario**: A 50-year-old woman has trouble falling asleep and frequently wakes up early, unable to return to sleep, impacting her daily mood and energy levels.
+   **Disorder**: Sleep-Wake Disorders -> Insomnia Disorder
+
+**Sub-type: Narcolepsy**
+1. **Scenario**: A 25-year-old man falls asleep suddenly and uncontrollably during the day, even while at work or in social situations, experiencing muscle weakness during emotional episodes.
+   **Disorder**: Sleep-Wake Disorders -> Narcolepsy
+2. **Scenario**: A 30-year-old woman experiences sudden sleep attacks and brief episodes of muscle weakness when laughing or excited, disrupting her daily life.
+   **Disorder**: Sleep-Wake Disorders -> Narcolepsy
+3. **Scenario**: A 22-year-old man often feels excessively sleepy during the day and has vivid, frightening dreams when falling asleep or waking up.
+   **Disorder**: Sleep-Wake Disorders -> Narcolepsy
+4. **Scenario**: A 28-year-old woman struggles with excessive daytime sleepiness and experiences sleep paralysis and hallucinations when waking up.
+   **Disorder**: Sleep-Wake Disorders -> Narcolepsy
+5. **Scenario**: A 35-year-old man falls asleep suddenly without warning and experiences episodes of cataplexy, particularly when experiencing strong emotions.
+   **Disorder**: Sleep-Wake Disorders -> Narcolepsy
+
+### 13. Sexual Dysfunctions
+
+**Sub-type: Erectile Disorder**
+1. **Scenario**: A 45-year-old man experiences difficulty achieving and maintaining an erection during sexual activity, causing stress and relationship issues.
+   **Disorder**: Sexual Dysfunctions -> Erectile Disorder
+2. **Scenario**: A 50-year-old man notices a consistent inability to sustain an erection sufficient for sexual intercourse, leading to decreased confidence and intimacy problems.
+   **Disorder**: Sexual Dysfunctions -> Erectile Disorder
+3. **Scenario**: A 40-year-old man avoids sexual encounters due to repeated failures to achieve an erection, resulting in anxiety and frustration.
+   **Disorder**: Sexual Dysfunctions -> Erectile Disorder
+4. **Scenario**: A 55-year-old man has difficulty maintaining an erection, impacting his relationship with his partner and causing him to feel embarrassed and distressed.
+   **Disorder**: Sexual Dysfunctions -> Erectile Disorder
+5. **Scenario**: A 35-year-old man struggles with erectile difficulties despite being sexually stimulated and interested, leading to feelings of inadequacy.
+   **Disorder**: Sexual Dysfunctions -> Erectile Disorder
+
+**Sub-type: Female Orgasmic Disorder**
+1. **Scenario**: A 30-year-old woman has difficulty reaching orgasm during sexual activity despite adequate stimulation, causing frustration and concern.
+   **Disorder**: Sexual Dysfunctions -> Female Orgasmic Disorder
+2. **Scenario**: A 28-year-old woman rarely or never experiences orgasms during intercourse, leading to dissatisfaction and strain in her relationship.
+   **Disorder**: Sexual Dysfunctions -> Female Orgasmic Disorder
+3. **Scenario**: A 35-year-old woman feels unable to achieve orgasm during sexual activity, impacting her sexual self-esteem and causing distress.
+   **Disorder**: Sexual Dysfunctions -> Female Orgasmic Disorder
+4. **Scenario**: A 40-year-old woman finds it difficult to reach orgasm, even with adequate arousal and stimulation, leading to feelings of inadequacy and frustration.
+   **Disorder**: Sexual Dysfunctions -> Female Orgasmic Disorder
+5. **Scenario**: A 32-year-old woman struggles to have orgasms despite enjoying sexual activity, causing her to feel anxious and affecting her sexual satisfaction.
+   **Disorder**: Sexual Dysfunctions -> Female Orgasmic Disorder
+
+### 14. Gender Dysphoria
+
+**Sub-type: Gender Dysphoria in Children**
+1. **Scenario**: A 7-year-old boy consistently expresses a strong desire to be a girl, preferring to wear dresses and play with dolls, and becomes distressed when referred to as a boy.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Children
+2. **Scenario**: An 8-year-old girl insists she is a boy and becomes very upset when made to wear traditionally feminine clothing, often stating she wants to be a boy.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Children
+3. **Scenario**: A 6-year-old boy states he feels like a girl and wants to be called by a girl's name, showing strong preferences for activities and clothing typically associated with girls.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Children
+4. **Scenario**: A 9-year-old girl is insistent that she is a boy, prefers male friends and activities, and experiences significant distress about her female body.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Children
+5. **Scenario**: A 7-year-old boy exhibits persistent behaviors and interests typical of girls and expresses a strong desire to live as a girl, causing distress and family tension.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Children
+
+**Sub-type: Gender Dysphoria in Adolescents and Adults**
+1. **Scenario**: A 16-year-old girl identifies strongly as male and experiences severe distress about her female body, seeking medical advice about transitioning.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Adolescents and Adults
+2. **Scenario**: A 22-year-old man feels intense discomfort with his male body and wishes to transition to female, experiencing significant emotional distress.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Adolescents and Adults
+3. **Scenario**: A 18-year-old girl feels a persistent desire to be male, experiencing significant distress and impairment in her social and academic life.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Adolescents and Adults
+4. **Scenario**: A 25-year-old man has always felt he is female, seeking hormone therapy and surgery to transition, and experiencing significant psychological distress.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Adolescents and Adults
+5. **Scenario**: A 20-year-old woman identifies as male and feels severe discomfort with her female physical characteristics, affecting her mental health and daily functioning.
+   **Disorder**: Gender Dysphoria -> Gender Dysphoria in Adolescents and Adults
+
+### 15. Disruptive, Impulse-Control, and Conduct Disorders
+
+**Sub-type: Oppositional Defiant Disorder**
+1. **Scenario**: A 10-year-old boy frequently argues with adults, refuses to comply with rules, and deliberately annoys others, leading to conflicts at home and school.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Oppositional Defiant Disorder
+2. **Scenario**: A 12-year-old girl displays a pattern of angry outbursts, vindictiveness, and defiance towards authority figures, causing significant disruption in the classroom.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Oppositional Defiant Disorder
+3. **Scenario**: A 9-year-old boy often loses his temper, blames others for his mistakes, and has frequent conflicts with peers and teachers.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Oppositional Defiant Disorder
+4. **Scenario**: An 11-year-old girl exhibits stubbornness, refuses to follow rules, and intentionally tries to upset her siblings, creating tension in the family.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Oppositional Defiant Disorder
+5. **Scenario**: A 13-year-old boy is regularly angry and resentful, often argues with his parents and teachers, and shows spiteful behavior towards classmates.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Oppositional Defiant Disorder
+
+**Sub-type: Conduct Disorder**
+1. **Scenario**: A 14-year-old boy engages in aggressive behavior towards others, including physical fights and bullying, and has been caught stealing and vandalizing property.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Conduct Disorder
+2. **Scenario**: A 16-year-old girl exhibits a pattern of deceitful behavior, such as lying and shoplifting, and has run away from home multiple times.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Conduct Disorder
+3. **Scenario**: A 15-year-old boy shows a persistent disregard for the rights of others, including
+
+ cruelty to animals and deliberate destruction of property.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Conduct Disorder
+4. **Scenario**: A 17-year-old girl has been involved in serious rule violations, such as truancy, substance abuse, and engaging in illegal activities like breaking and entering.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Conduct Disorder
+5. **Scenario**: A 14-year-old boy demonstrates a consistent pattern of violating societal norms and the rights of others, including theft, aggression, and manipulation.
+   **Disorder**: Disruptive, Impulse-Control, and Conduct Disorders -> Conduct Disorder
+
+### 16. Substance-Related and Addictive Disorders
+
+**Sub-type: Alcohol Use Disorder**
+1. **Scenario**: A 35-year-old man drinks heavily every evening, resulting in missed work days and conflicts with his family, unable to cut down despite multiple attempts.
+   **Disorder**: Substance-Related and Addictive Disorders -> Alcohol Use Disorder
+2. **Scenario**: A 40-year-old woman frequently binge drinks on weekends, leading to health issues and legal problems, but feels unable to stop.
+   **Disorder**: Substance-Related and Addictive Disorders -> Alcohol Use Disorder
+3. **Scenario**: A 28-year-old man relies on alcohol to cope with stress, experiencing withdrawal symptoms when not drinking, and neglecting responsibilities.
+   **Disorder**: Substance-Related and Addictive Disorders -> Alcohol Use Disorder
+4. **Scenario**: A 50-year-old woman has developed a high tolerance for alcohol, drinking increasingly larger amounts to achieve the same effect, affecting her health and social life.
+   **Disorder**: Substance-Related and Addictive Disorders -> Alcohol Use Disorder
+5. **Scenario**: A 45-year-old man experiences cravings for alcohol throughout the day, leading to frequent drinking and negative impacts on his job and relationships.
+   **Disorder**: Substance-Related and Addictive Disorders -> Alcohol Use Disorder
+
+**Sub-type: Opioid Use Disorder**
+1. **Scenario**: A 30-year-old man began using prescription painkillers for a back injury and now uses opioids daily, unable to stop despite severe health and legal issues.
+   **Disorder**: Substance-Related and Addictive Disorders -> Opioid Use Disorder
+2. **Scenario**: A 25-year-old woman started using heroin after her prescription opioids were discontinued, facing multiple overdoses and deteriorating physical health.
+   **Disorder**: Substance-Related and Addictive Disorders -> Opioid Use Disorder
+3. **Scenario**: A 35-year-old man uses opioids to cope with emotional pain, experiencing intense cravings and withdrawal symptoms, leading to job loss and relationship breakdowns.
+   **Disorder**: Substance-Related and Addictive Disorders -> Opioid Use Disorder
+4. **Scenario**: A 28-year-old woman steals money and valuables to buy opioids, facing criminal charges and estrangement from her family due to her addiction.
+   **Disorder**: Substance-Related and Addictive Disorders -> Opioid Use Disorder
+5. **Scenario**: A 40-year-old man has developed a tolerance to opioids, using higher doses to achieve the same effect, and experiencing severe withdrawal when trying to quit.
+   **Disorder**: Substance-Related and Addictive Disorders -> Opioid Use Disorder
+
+### 17. Neurocognitive Disorders
+
+**Sub-type: Major Neurocognitive Disorder**
+1. **Scenario**: A 75-year-old woman shows significant memory loss, confusion, and difficulty performing daily tasks, with a diagnosis of Alzheimer's disease.
+   **Disorder**: Neurocognitive Disorders -> Major Neurocognitive Disorder
+2. **Scenario**: An 80-year-old man exhibits severe cognitive decline, including impaired judgment and personality changes, severely impacting his ability to live independently.
+   **Disorder**: Neurocognitive Disorders -> Major Neurocognitive Disorder
+3. **Scenario**: A 78-year-old woman struggles with language, problem-solving, and recognizing familiar faces, requiring full-time care.
+   **Disorder**: Neurocognitive Disorders -> Major Neurocognitive Disorder
+4. **Scenario**: A 72-year-old man has progressive difficulty with memory, attention, and executive functions, leading to dependency on caregivers for daily activities.
+   **Disorder**: Neurocognitive Disorders -> Major Neurocognitive Disorder
+5. **Scenario**: A 85-year-old woman experiences severe disorientation, hallucinations, and inability to perform basic self-care, diagnosed with vascular dementia.
+   **Disorder**: Neurocognitive Disorders -> Major Neurocognitive Disorder
+
+**Sub-type: Mild Neurocognitive Disorder**
+1. **Scenario**: A 65-year-old woman notices increasing forgetfulness and struggles with complex tasks but can still manage daily activities independently with some effort.
+   **Disorder**: Neurocognitive Disorders -> Mild Neurocognitive Disorder
+2. **Scenario**: A 70-year-old man experiences occasional lapses in memory and difficulty finding words, worrying about the early stages of cognitive decline.
+   **Disorder**: Neurocognitive Disorders -> Mild Neurocognitive Disorder
+3. **Scenario**: A 68-year-old woman finds it harder to multitask and solve problems but compensates with written reminders and organizational tools.
+   **Disorder**: Neurocognitive Disorders -> Mild Neurocognitive Disorder
+4. **Scenario**: A 72-year-old man struggles with recent memory and attention but remains able to perform most daily activities with occasional assistance.
+   **Disorder**: Neurocognitive Disorders -> Mild Neurocognitive Disorder
+5. **Scenario**: A 69-year-old woman notices increased difficulty in planning and decision-making, impacting her work performance, but manages with support from colleagues.
+   **Disorder**: Neurocognitive Disorders -> Mild Neurocognitive Disorder
+
+### 18. Paraphilic Disorders
+
+**Sub-type: Pedophilic Disorder**
+1. **Scenario**: A 40-year-old man has recurrent, intense sexual fantasies involving prepubescent children, which he finds distressing and has not acted upon.
+   **Disorder**: Paraphilic Disorders -> Pedophilic Disorder
+2. **Scenario**: A 35-year-old woman is attracted to young children and feels guilt and shame about her thoughts, seeking therapy for help.
+   **Disorder**: Paraphilic Disorders -> Pedophilic Disorder
+3. **Scenario**: A 45-year-old man experiences sexual urges toward children, causing him significant distress and leading him to avoid situations involving children.
+   **Disorder**: Paraphilic Disorders -> Pedophilic Disorder
+4. **Scenario**: A 50-year-old man has disturbing sexual fantasies about children, leading to severe emotional distress and seeking professional help.
+   **Disorder**: Paraphilic Disorders -> Pedophilic Disorder
+5. **Scenario**: A 30-year-old man struggles with inappropriate sexual thoughts about children, causing him distress and seeking ways to manage these thoughts.
+   **Disorder**: Paraphilic Disorders -> Pedophilic Disorder
+
+**Sub-type: Exhibitionistic Disorder**
+1. **Scenario**: A 28-year-old man experiences intense arousal from exposing his genitals to unsuspecting strangers, which causes significant distress.
+   **Disorder**: Paraphilic Disorders -> Exhibitionistic Disorder
+2. **Scenario**: A 35-year-old woman feels a strong urge to expose herself in public places, leading to repeated arrests and emotional distress.
+   **Disorder**: Paraphilic Disorders -> Exhibitionistic Disorder
+3. **Scenario**: A 40-year-old man repeatedly exposes himself to others in public, experiencing guilt and shame afterwards but unable to resist the urge.
+   **Disorder**: Paraphilic Disorders -> Exhibitionistic Disorder
+4. **Scenario**: A 32-year-old man engages in flashing his genitals in public, finding it sexually arousing and feeling distress about his inability to control this behavior.
+   **Disorder**: Paraphilic Disorders -> Exhibitionistic Disorder
+5. **Scenario**: A 45-year-old woman has recurrent urges to expose herself to others, feeling distressed about the behavior and its impact on her life.
+   **Disorder**: Paraphilic Disorders -> Exhibitionistic Disorder
+
+### 19. Personality Disorders
+
+**Sub-type: Borderline Personality Disorder**
+1. **Scenario**: A 28-year-old woman has unstable relationships, intense emotions, and fears of abandonment, leading to impulsive actions like self-harm and outbursts.
+   **Disorder**: Personality Disorders -> Borderline Personality Disorder
+2. **Scenario**: A 35-year-old man experiences intense mood swings, has difficulty maintaining relationships, and frequently engages in risky behaviors.
+   **Disorder**: Personality Disorders -> Borderline Personality Disorder
+3. **Scenario**: A 25-year-old woman feels empty and fears being alone, resulting in frantic efforts to avoid real or imagined abandonment.
+   **Disorder**: Personality Disorders -> Borderline Personality Disorder
+4. **Scenario**: A 30-year-old man has a history of unstable relationships, impulsive actions, and intense episodes of anger and depression.
+   **Disorder**: Personality Disorders -> Borderline Personality Disorder
+5. **Scenario**: A 40-year-old woman alternates between idealizing and devaluing those close to her, experiences chronic feelings of emptiness, and has difficulty controlling her emotions.
+   **Disorder**: Personality Disorders -> Borderline Personality Disorder
+
+**Sub-type: Antisocial Personality Disorder**
+1. **Scenario**: A 35-year-old man has a long history of deceitful, manipulative behavior, including lying, theft, and disregard for the rights of others, often resulting in legal problems.
+   **Disorder**:
+
+ Personality Disorders -> Antisocial Personality Disorder
+2. **Scenario**: A 40-year-old woman consistently violates social norms, engages in impulsive and aggressive acts, and shows no remorse for her actions.
+   **Disorder**: Personality Disorders -> Antisocial Personality Disorder
+3. **Scenario**: A 30-year-old man has a pattern of exploiting others for personal gain, demonstrating a lack of empathy and persistent disregard for others' feelings and rights.
+   **Disorder**: Personality Disorders -> Antisocial Personality Disorder
+4. **Scenario**: A 28-year-old woman engages in criminal activities, is deceitful and manipulative, and shows no regard for the safety or feelings of others.
+   **Disorder**: Personality Disorders -> Antisocial Personality Disorder
+5. **Scenario**: A 45-year-old man repeatedly lies, steals, and manipulates others, exhibiting aggressive behavior and a lack of remorse for his harmful actions.
+   **Disorder**: Personality Disorders -> Antisocial Personality Disorder
+
+### 20. Paranoid Personality Disorder
+
+**Sub-type: Delusional Disorder**
+1. **Scenario**: A 50-year-old man believes his neighbors are spying on him and plotting to harm him, despite no evidence to support his suspicions, causing him significant distress.
+   **Disorder**: Paranoid Personality Disorder -> Delusional Disorder
+2. **Scenario**: A 45-year-old woman is convinced that her coworkers are conspiring against her to get her fired, leading to confrontations and job difficulties.
+   **Disorder**: Paranoid Personality Disorder -> Delusional Disorder
+3. **Scenario**: A 40-year-old man believes his partner is unfaithful despite no evidence, resulting in constant accusations and relationship strain.
+   **Disorder**: Paranoid Personality Disorder -> Delusional Disorder
+4. **Scenario**: A 55-year-old woman thinks that strangers she sees in public are talking about her and spreading rumors, causing her to avoid social situations.
+   **Disorder**: Paranoid Personality Disorder -> Delusional Disorder
+5. **Scenario**: A 60-year-old man is certain that government agents are monitoring his every move, leading to extreme vigilance and social isolation.
+   **Disorder**: Paranoid Personality Disorder -> Delusional Disorder
+
+**Sub-type: Schizoid Personality Disorder**
+1. **Scenario**: A 35-year-old man prefers solitary activities, shows little interest in social relationships, and appears emotionally detached, causing concern among family members.
+   **Disorder**: Paranoid Personality Disorder -> Schizoid Personality Disorder
+2. **Scenario**: A 40-year-old woman avoids social interactions, has no close friends, and seems indifferent to praise or criticism from others.
+   **Disorder**: Paranoid Personality Disorder -> Schizoid Personality Disorder
+3. **Scenario**: A 45-year-old man works in a job that requires minimal interaction with others, expresses little desire for relationships, and appears aloof.
+   **Disorder**: Paranoid Personality Disorder -> Schizoid Personality Disorder
+4. **Scenario**: A 50-year-old woman lives alone, has no interest in dating or friendships, and spends most of her time engaged in solitary hobbies.
+   **Disorder**: Paranoid Personality Disorder -> Schizoid Personality Disorder
+5. **Scenario**: A 30-year-old man seems emotionally cold, has no desire for close relationships, and prefers to be alone, causing difficulties in his family life.
+   **Disorder**: Paranoid Personality Disorder -> Schizoid Personality Disorder
+
+### 21. Schizotypal Personality Disorder
+
+**Sub-type: Schizotypal Personality Disorder with Social Anxiety**
+1. **Scenario**: A 25-year-old woman experiences intense social anxiety, has odd beliefs and magical thinking, and avoids social interactions, feeling very uncomfortable around people.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder with Social Anxiety
+2. **Scenario**: A 30-year-old man has few friends, experiences severe social anxiety, and believes he has special powers, making it difficult to connect with others.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder with Social Anxiety
+3. **Scenario**: A 28-year-old woman has unusual perceptual experiences and extreme social anxiety, leading her to avoid most social situations.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder with Social Anxiety
+4. **Scenario**: A 35-year-old man has bizarre thoughts and beliefs, along with significant social anxiety, resulting in social isolation.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder with Social Anxiety
+5. **Scenario**: A 32-year-old woman experiences paranoid thoughts, magical thinking, and intense social anxiety, causing her to withdraw from social activities.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder with Social Anxiety
+
+**Sub-type: Schizotypal Personality Disorder without Social Anxiety**
+1. **Scenario**: A 40-year-old man has odd speech, unusual perceptual experiences, and peculiar beliefs but does not feel anxious in social situations.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder without Social Anxiety
+2. **Scenario**: A 35-year-old woman has eccentric behavior and strange thoughts, such as believing she can predict the future, but remains socially engaged.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder without Social Anxiety
+3. **Scenario**: A 50-year-old man displays odd, magical thinking and peculiar speech patterns but does not experience discomfort around others.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder without Social Anxiety
+4. **Scenario**: A 45-year-old woman has unconventional beliefs and behaviors, like thinking she can communicate with animals, yet interacts normally with people.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder without Social Anxiety
+5. **Scenario**: A 55-year-old man exhibits odd thoughts and behaviors, including believing he has a sixth sense, but participates actively in social activities.
+   **Disorder**: Schizotypal Personality Disorder -> Schizotypal Personality Disorder without Social Anxiety
+
+### 22. Other Mental Disorders
+
+**Sub-type: Other Specified Mental Disorder Due to Another Medical Condition**
+1. **Scenario**: A 60-year-old woman develops severe anxiety and panic attacks after being diagnosed with a serious heart condition.
+   **Disorder**: Other Mental Disorders -> Other Specified Mental Disorder Due to Another Medical Condition
+2. **Scenario**: A 50-year-old man experiences depression and cognitive impairment following a stroke, affecting his daily functioning.
+   **Disorder**: Other Mental Disorders -> Other Specified Mental Disorder Due to Another Medical Condition
+3. **Scenario**: A 65-year-old woman develops mood swings and paranoia after being diagnosed with Parkinson's disease.
+   **Disorder**: Other Mental Disorders -> Other Specified Mental Disorder Due to Another Medical Condition
+4. **Scenario**: A 45-year-old man experiences significant memory loss and confusion following a traumatic brain injury.
+   **Disorder**: Other Mental Disorders -> Other Specified Mental Disorder Due to Another Medical Condition
+5. **Scenario**: A 55-year-old woman has severe depression and anxiety after being diagnosed with multiple sclerosis.
+   **Disorder**: Other Mental Disorders -> Other Specified Mental Disorder Due to Another Medical Condition
+
+**Sub-type: Unspecified Mental Disorder**
+1. **Scenario**: A 30-year-old woman exhibits symptoms of anxiety and depression, but they do not fit neatly into any specific disorder, causing significant distress and impairment.
+   **Disorder**: Other Mental Disorders -> Unspecified Mental Disorder
+2. **Scenario**: A 40-year-old man experiences a combination of paranoia and mood swings that do not align with any particular diagnosis, affecting his daily life.
+   **Disorder**: Other Mental Disorders -> Unspecified Mental Disorder
+3. **Scenario**: A 25-year-old woman has symptoms of obsessive thoughts and compulsive behaviors that are not fully consistent with obsessive-compulsive disorder.
+   **Disorder**: Other Mental Disorders -> Unspecified Mental Disorder
+4. **Scenario**: A 35-year-old man experiences intermittent periods of extreme sadness and euphoria that do not meet the criteria for bipolar disorder.
+   **Disorder**: Other Mental Disorders -> Unspecified Mental Disorder
+5. **Scenario**: A 45-year-old woman has ongoing emotional distress and behavioral issues that do not match any specific mental health diagnosis, impacting her quality of life.
+   **Disorder**: Other Mental Disorders -> Unspecified Mental Disorder

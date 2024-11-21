@@ -1,0 +1,195 @@
+Anxiety Disorders - Generalized Anxiety Disorder : This sub-disease typically involves generalized anxiety disorder
+Keywords: phobia, restlessness, panic, fear, generalized, avoidance, nervousness, worry, dysthymia, persistent
+
+Anxiety Disorders - Persistent Depressive Disorder (Dysthymia) : This sub-disease typically involves persistent depressive disorder (dysthymia)
+Keywords: phobia, restlessness, panic, fear, generalized, avoidance, nervousness, worry, dysthymia, persistent
+
+Anxiety Disorders - Social Anxiety Disorder (Social Phobia) : This sub-disease typically involves social anxiety disorder (social phobia)
+Keywords: phobia, restlessness, panic, fear, generalized, avoidance, nervousness, worry, dysthymia, persistent
+
+Bipolar and Related Disorders - Bipolar I Disorder : This sub-disease typically involves bipolar i disorder
+Keywords: i, impulsive, energy, irritability, ii, depression, mania, mood swings, delusional
+
+Bipolar and Related Disorders - Bipolar II Disorder : This sub-disease typically involves bipolar ii disorder
+Keywords: i, impulsive, energy, irritability, ii, depression, mania, mood swings, delusional
+
+Bipolar and Related Disorders - Delusional Disorder : This sub-disease typically involves delusional disorder
+Keywords: i, impulsive, energy, irritability, ii, depression, mania, mood swings, delusional
+
+Depressive Disorders - Bipolar II Disorder : This sub-disease typically involves bipolar ii disorder
+Keywords: insomnia, sadness, ii, guilt, fatigue, hopelessness, dysthymia, major, persistent, weight change
+
+Depressive Disorders - Major Depressive Disorder : This sub-disease typically involves major depressive disorder
+Keywords: insomnia, sadness, ii, guilt, fatigue, hopelessness, dysthymia, major, persistent, weight change
+
+Depressive Disorders - Persistent Depressive Disorder (Dysthymia) : This sub-disease typically involves persistent depressive disorder (dysthymia)
+Keywords: insomnia, sadness, ii, guilt, fatigue, hopelessness, dysthymia, major, persistent, weight change
+
+Disruptive, Impulse-Control, and Conduct Disorders - Conduct Disorder : This sub-disease typically involves conduct disorder
+Keywords: disruptive, in, adolescents, irritability, impulse, anger, defiance, control, aggression, conflict
+
+Disruptive, Impulse-Control, and Conduct Disorders - Gender Dysphoria in Adolescents and Adults : This sub-disease typically involves gender dysphoria in adolescents and adults
+Keywords: disruptive, in, adolescents, irritability, impulse, anger, defiance, control, aggression, conflict
+
+Disruptive, Impulse-Control, and Conduct Disorders - Oppositional Defiant Disorder : This sub-disease typically involves oppositional defiant disorder
+Keywords: disruptive, in, adolescents, irritability, impulse, anger, defiance, control, aggression, conflict
+
+Dissociative Disorders - Acute Stress Disorder : This sub-disease typically involves acute stress disorder
+Keywords: memory loss, identity, stress, acute, unreality, detachment, depersonalization, derealization, confusion, amnesia
+
+Dissociative Disorders - Depersonalization/Derealization Disorder : This sub-disease typically involves depersonalization/derealization disorder
+Keywords: memory loss, identity, stress, acute, unreality, detachment, depersonalization, derealization, confusion, amnesia
+
+Dissociative Disorders - Dissociative Identity Disorder : This sub-disease typically involves dissociative identity disorder
+Keywords: memory loss, identity, stress, acute, unreality, detachment, depersonalization, derealization, confusion, amnesia
+
+Elimination Disorders - Bulimia Nervosa : This sub-disease typically involves bulimia nervosa
+Keywords: accidents, involuntary, nervosa, bedwetting, bulimia, enuresis, discomfort, elimination, encopresis, soiling
+
+Elimination Disorders - Encopresis : This sub-disease typically involves encopresis
+Keywords: accidents, involuntary, nervosa, bedwetting, bulimia, enuresis, discomfort, elimination, encopresis, soiling
+
+Elimination Disorders - Enuresis : This sub-disease typically involves enuresis
+Keywords: accidents, involuntary, nervosa, bedwetting, bulimia, enuresis, discomfort, elimination, encopresis, soiling
+
+Feeding and Eating Disorders - Anorexia Nervosa : This sub-disease typically involves anorexia nervosa
+Keywords: eating, food, vomiting, nervosa, weight, bulimia, restriction, feeding, anorexia, binge
+
+Feeding and Eating Disorders - Bulimia Nervosa : This sub-disease typically involves bulimia nervosa
+Keywords: eating, food, vomiting, nervosa, weight, bulimia, restriction, feeding, anorexia, binge
+
+Feeding and Eating Disorders - Illness Anxiety Disorder : This sub-disease typically involves illness anxiety disorder
+Keywords: eating, food, vomiting, nervosa, weight, bulimia, restriction, feeding, anorexia, binge
+
+Gender Dysphoria - Female Orgasmic Disorder : This sub-disease typically involves female orgasmic disorder
+Keywords: identity, transition, in, adults, distress, adolescents, gender, female, dysphoria, orgasmic
+
+Gender Dysphoria - Gender Dysphoria in Adolescents and Adults : This sub-disease typically involves gender dysphoria in adolescents and adults
+Keywords: identity, transition, in, adults, distress, adolescents, gender, female, dysphoria, orgasmic
+
+Gender Dysphoria - Gender Dysphoria in Children : This sub-disease typically involves gender dysphoria in children
+Keywords: identity, transition, in, adults, distress, adolescents, gender, female, dysphoria, orgasmic
+
+Neurocognitive Disorders - Major Neurocognitive Disorder : This sub-disease typically involves major neurocognitive disorder
+Keywords: use, judgment, disorientation, memory, opioid, confusion, cognitive decline, mild, major, attention
+
+Neurocognitive Disorders - Mild Neurocognitive Disorder : This sub-disease typically involves mild neurocognitive disorder
+Keywords: use, judgment, disorientation, memory, opioid, confusion, cognitive decline, mild, major, attention
+
+Neurocognitive Disorders - Opioid Use Disorder : This sub-disease typically involves opioid use disorder
+Keywords: use, judgment, disorientation, memory, opioid, confusion, cognitive decline, mild, major, attention
+
+Neurodevelopmental Disorders - Attention-Deficit/Hyperactivity Disorder (ADHD) : This sub-disease typically involves attention-deficit/hyperactivity disorder (adhd)
+Keywords: social skills, neurodevelopmental, communication, learning, developmental delay, adhd, behavior, hyperactivity, deficit, attention
+
+Neurodevelopmental Disorders - Autism Spectrum Disorder : This sub-disease typically involves autism spectrum disorder
+Keywords: social skills, neurodevelopmental, communication, learning, developmental delay, adhd, behavior, hyperactivity, deficit, attention
+
+Obsessive-Compulsive and Related Disorders - Body Dysmorphic Disorder : This sub-disease typically involves body dysmorphic disorder
+Keywords: dysmorphic, ocd, cleaning, obsessions, obsessive, rituals, checking, compulsive, compulsions, intrusive thoughts
+
+Obsessive-Compulsive and Related Disorders - Obsessive-Compulsive Disorder (OCD) : This sub-disease typically involves obsessive-compulsive disorder (ocd)
+Keywords: dysmorphic, ocd, cleaning, obsessions, obsessive, rituals, checking, compulsive, compulsions, intrusive thoughts
+
+Obsessive-Compulsive and Related Disorders - Social Anxiety Disorder (Social Phobia) : This sub-disease typically involves social anxiety disorder (social phobia)
+Keywords: dysmorphic, ocd, cleaning, obsessions, obsessive, rituals, checking, compulsive, compulsions, intrusive thoughts
+
+Other Mental Disorders - Other Specified Mental Disorder Due to Another Medical Condition : This sub-disease typically involves other specified mental disorder due to another medical condition
+Keywords: medical, due, another, specified, to
+
+Other Mental Disorders - Schizotypal Personality Disorder without Social Anxiety : This sub-disease typically involves schizotypal personality disorder without social anxiety
+Keywords: medical, due, another, specified, to
+
+Other Mental Disorders - Unspecified Mental Disorder : This sub-disease typically involves unspecified mental disorder
+Keywords: medical, due, another, specified, to
+
+Paranoid Personality Disorder - Antisocial Personality Disorder : This sub-disease typically involves antisocial personality disorder
+Keywords: self-image, stability, paranoid, emotions, relationships, impulsivity, antisocial, delusional, behavior, schizoid
+
+Paranoid Personality Disorder - Delusional Disorder : This sub-disease typically involves delusional disorder
+Keywords: self-image, stability, paranoid, emotions, relationships, impulsivity, antisocial, delusional, behavior, schizoid
+
+Paranoid Personality Disorder - Schizoid Personality Disorder : This sub-disease typically involves schizoid personality disorder
+Keywords: self-image, stability, paranoid, emotions, relationships, impulsivity, antisocial, delusional, behavior, schizoid
+
+Paraphilic Disorders - Exhibitionistic Disorder : This sub-disease typically involves exhibitionistic disorder
+Keywords: behavior, distress, impairment, paraphilic, attraction, pedophilic, sexual, fantasies, mild, exhibitionistic
+
+Paraphilic Disorders - Mild Neurocognitive Disorder : This sub-disease typically involves mild neurocognitive disorder
+Keywords: behavior, distress, impairment, paraphilic, attraction, pedophilic, sexual, fantasies, mild, exhibitionistic
+
+Paraphilic Disorders - Pedophilic Disorder : This sub-disease typically involves pedophilic disorder
+Keywords: behavior, distress, impairment, paraphilic, attraction, pedophilic, sexual, fantasies, mild, exhibitionistic
+
+Personality Disorders - Antisocial Personality Disorder : This sub-disease typically involves antisocial personality disorder
+Keywords: self-image, stability, relationships, impulsivity, borderline, antisocial, behavior, emotions, exhibitionistic
+
+Personality Disorders - Borderline Personality Disorder : This sub-disease typically involves borderline personality disorder
+Keywords: self-image, stability, relationships, impulsivity, borderline, antisocial, behavior, emotions, exhibitionistic
+
+Personality Disorders - Exhibitionistic Disorder : This sub-disease typically involves exhibitionistic disorder
+Keywords: self-image, stability, relationships, impulsivity, borderline, antisocial, behavior, emotions, exhibitionistic
+
+Schizophrenia Spectrum and Other Psychotic Disorders - Attention-Deficit/Hyperactivity Disorder (ADHD) : This sub-disease typically involves attention-deficit/hyperactivity disorder (adhd)
+Keywords: hallucinations, disorganized speech, withdrawal, paranoia, schizophrenia, catatonia, delusions, deficit, psychotic, spectrum
+
+Schizophrenia Spectrum and Other Psychotic Disorders - Delusional Disorder : This sub-disease typically involves delusional disorder
+Keywords: hallucinations, disorganized speech, withdrawal, paranoia, schizophrenia, catatonia, delusions, deficit, psychotic, spectrum
+
+Schizophrenia Spectrum and Other Psychotic Disorders - Schizophrenia : This sub-disease typically involves schizophrenia
+Keywords: hallucinations, disorganized speech, withdrawal, paranoia, schizophrenia, catatonia, delusions, deficit, psychotic, spectrum
+
+Schizotypal Personality Disorder - Schizoid Personality Disorder : This sub-disease typically involves schizoid personality disorder
+Keywords: self-image, with, without, emotions, relationships, impulsivity, stability, behavior, schizoid
+
+Schizotypal Personality Disorder - Schizotypal Personality Disorder with Social Anxiety : This sub-disease typically involves schizotypal personality disorder with social anxiety
+Keywords: self-image, with, without, emotions, relationships, impulsivity, stability, behavior, schizoid
+
+Schizotypal Personality Disorder - Schizotypal Personality Disorder without Social Anxiety : This sub-disease typically involves schizotypal personality disorder without social anxiety
+Keywords: self-image, with, without, emotions, relationships, impulsivity, stability, behavior, schizoid
+
+Sexual Dysfunctions - Erectile Disorder : This sub-disease typically involves erectile disorder
+Keywords: sexual, female, orgasmic, dysfunctions, erectile
+
+Sexual Dysfunctions - Female Orgasmic Disorder : This sub-disease typically involves female orgasmic disorder
+Keywords: sexual, female, orgasmic, dysfunctions, erectile
+
+Sexual Dysfunctions - Narcolepsy : This sub-disease typically involves narcolepsy
+Keywords: sexual, female, orgasmic, dysfunctions, erectile
+
+Sleep-Wake Disorders - Encopresis : This sub-disease typically involves encopresis
+Keywords: restlessness, wake, insomnia, nightmares, narcolepsy, sleepwalking, fatigue, encopresis, sleep, sleepiness
+
+Sleep-Wake Disorders - Insomnia Disorder : This sub-disease typically involves insomnia disorder
+Keywords: restlessness, wake, insomnia, nightmares, narcolepsy, sleepwalking, fatigue, encopresis, sleep, sleepiness
+
+Sleep-Wake Disorders - Narcolepsy : This sub-disease typically involves narcolepsy
+Keywords: restlessness, wake, insomnia, nightmares, narcolepsy, sleepwalking, fatigue, encopresis, sleep, sleepiness
+
+Somatic Symptom and Related Disorders - Depersonalization/Derealization Disorder : This sub-disease typically involves depersonalization/derealization disorder
+Keywords: symptoms, illness, anxiety, medical tests, depersonalization, derealization, symptom, somatic, fatigue, gastrointestinal
+
+Somatic Symptom and Related Disorders - Illness Anxiety Disorder : This sub-disease typically involves illness anxiety disorder
+Keywords: symptoms, illness, anxiety, medical tests, depersonalization, derealization, symptom, somatic, fatigue, gastrointestinal
+
+Somatic Symptom and Related Disorders - Somatic Symptom Disorder : This sub-disease typically involves somatic symptom disorder
+Keywords: symptoms, illness, anxiety, medical tests, depersonalization, derealization, symptom, somatic, fatigue, gastrointestinal
+
+Substance-Related and Addictive Disorders - Alcohol Use Disorder : This sub-disease typically involves alcohol use disorder
+Keywords: alcohol, withdrawal, substance use, craving, use, addiction, tolerance, overdose, opioid, addictive
+
+Substance-Related and Addictive Disorders - Conduct Disorder : This sub-disease typically involves conduct disorder
+Keywords: alcohol, withdrawal, substance use, craving, use, addiction, tolerance, overdose, opioid, addictive
+
+Substance-Related and Addictive Disorders - Opioid Use Disorder : This sub-disease typically involves opioid use disorder
+Keywords: alcohol, withdrawal, substance use, craving, use, addiction, tolerance, overdose, opioid, addictive
+
+Trauma- and Stressor-Related Disorders - Acute Stress Disorder : This sub-disease typically involves acute stress disorder
+Keywords: stress, trauma, acute, body, stressor
+
+Trauma- and Stressor-Related Disorders - Body Dysmorphic Disorder : This sub-disease typically involves body dysmorphic disorder
+Keywords: stress, trauma, acute, body, stressor
+
+Trauma- and Stressor-Related Disorders - Posttraumatic Stress Disorder (PTSD) : This sub-disease typically involves posttraumatic stress disorder (ptsd)
+Keywords: stress, trauma, acute, body, stressor
+
